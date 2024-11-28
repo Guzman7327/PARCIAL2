@@ -1,0 +1,28 @@
+/* Styles for the app component */
+
+:host {
+  display: block;
+  padding: 16px;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+main {
+  margin: 20px;
+}
+
+footer {
+  background-color: #f1f1f1;
+  color: #333;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
