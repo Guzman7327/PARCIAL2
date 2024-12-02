@@ -1,3 +1,4 @@
+HEAD
 Práctica REST PWA: Lista y Detalle de Imágenes
 Este proyecto es una aplicación Angular convertida en PWA que consume la API pública de Picsum para mostrar una lista de imágenes y los detalles de una imagen seleccionada.
 
@@ -92,5 +93,6 @@ Probar el modo offline:
 
 Asegúrate de que el servidor esté configurado para servir archivos estáticos (por ejemplo, usando un servidor HTTP como http-server).
 Licencia
-Este proyecto está licenciado bajo la MIT License. Consulta el archivo LICENSE para más información.
+Este proyecto está licenciado bajo la MIT License. Consulta el archivo LICENSE para más informacion
 
+26403d2667b6ed8a439264a2885db2ff70b7749e
